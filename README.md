@@ -1,4 +1,4 @@
-# Improved Morphology Model
+# Escaping the Matrix : Exploring CNNs for Morphological Transformation Tasks
 
 This repository contains the implementation of the **Improved Morphology Model** designed for classification tasks based on morphological transformations. The project is structured with two primary files:
 
