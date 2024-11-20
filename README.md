@@ -35,8 +35,9 @@ Usage
 1. Data Generation
 
 Run datageneration.py to generate input-output pairs:
-
+```bash
 python datageneration.py
+```
 
 This script will create a datasets/ directory containing the generated dataset.
 
