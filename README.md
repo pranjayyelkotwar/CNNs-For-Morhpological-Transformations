@@ -12,10 +12,10 @@ The data generated will be stored inside a `datasets/` directory, which will be 
 ## Project Structure
 
 .
-├── datasets/               # Directory where generated data will be stored
-├── datageneration.py       # Script to generate input-output data pairs
-├── main.ipynb              # Jupyter notebook for training and evaluating the model
-└── README.md               # Project documentation
+├── datasets/               # Directory where generated data will be stored  
+├── datageneration.py       # Script to generate input-output data pairs  
+├── main.ipynb              # Jupyter notebook for training and evaluating the model  
+└── README.md               # Project documentation  
 
 ---
 
